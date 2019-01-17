@@ -2,8 +2,8 @@
 ------
 
 ### Art Piece 1
-![Heather Dewey-Haborg](images/Picture2.png?raw=true "Heather Dewey-Haborg")
-![Heather Dewey-Haborg](images/Picture3.png?raw=true "Heather Dewey-Haborg")
+![Heather Dewey-Haborg](Images/Picture2.png?raw=true "Heather Dewey-Haborg")
+![Heather Dewey-Haborg](Images/Picture3.png?raw=true "Heather Dewey-Haborg")
 
 Stranger Visions
 Heather Dewey-Haborg
@@ -15,8 +15,8 @@ I was drawn to Stranger Visions, created by Heather Dewey-Haborg, because the pr
 
 
 ### Art Piece 2
-![Claudia Hart](images/Picture4.png?raw=true "Claudia Hart")
-![Claudia Hart](images/Picture5.png?raw=true "Claudia Hart")
+![Claudia Hart](Images/Picture4.png?raw=true "Claudia Hart")
+![Claudia Hart](Images/Picture5.png?raw=true "Claudia Hart")
 
 Inside The Flower Matrix
 Claudia Hart
